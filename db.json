@@ -1,0 +1,24 @@
+{
+  "clientes": [
+    {
+      "nombre": "Marco ",
+      "apellido": "Perez Zhindon",
+      "email": "marcpvin1@gmail.com",
+      "telefono": "098-436-3952",
+      "empresa": "Bomberos de Azogues",
+      "puesto": "Bombero de Planta - Operativo",
+      "estado": true,
+      "id": "acce"
+    },
+    {
+      "id": "acse",
+      "nombre": "Salome",
+      "apellido": "Saldaña",
+      "email": "salome@gmail.com",
+      "telefono": "098-436-3942",
+      "empresa": "Luis Rogerio Gonzalez",
+      "puesto": "2do Contabilidad",
+      "estado": false
+    }
+  ]
+}
